@@ -1,0 +1,10 @@
+image: gradle:alpine
+
+build:
+  stage: build
+  script:
+    - gradle build
+  artifacts:
+    reports:
+      junit: build/test-results/test/TEST-*.xml
+
