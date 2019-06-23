@@ -24,3 +24,6 @@ Extensions:
           A needs to pay 25 to D
     • Introduce weightage (uneven split). For an expense of 100, Person A incurs 75 and Person B incurs 25. For eg. {A: 0.1}, {B: 0.2}, {C: 0.7}
 
+
+
+PS - for revised edition of this app please refer refactored and updated code here - https://github.com/pulkitent/split-wise-revised
