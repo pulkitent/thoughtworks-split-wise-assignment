@@ -1,6 +1,6 @@
 # PROBLEM STATEMENT
 
-**split-wise**
+**Split-Wise App**
 
 A group of friends go out for an outing to explore Chennai. On the trip, they incur various expenses like bus tickets, taxi fare, museum tickets and food etc. One of them paid for taxi while other one paid for the evening snacks. Similarly, different expenses were paid by them in a random manner. Also, for some expenses, only few people are part of it.
 
